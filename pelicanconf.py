@@ -1,7 +1,6 @@
 AUTHOR = 'puntoycoma66'
 SITENAME = 'LAS CRONICAS DE PUNTOYCOMA'
 SITEURL = ""
-#THEME = 'themes/elegant'
 PATH = "content"
 STATIC_PATHS = ['images']
 TIMEZONE = 'Europe/Madrid'
